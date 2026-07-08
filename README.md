@@ -1,2 +1,0 @@
-# criacomia
-funil quiz
